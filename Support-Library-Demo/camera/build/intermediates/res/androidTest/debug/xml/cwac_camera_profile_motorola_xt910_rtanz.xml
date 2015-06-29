@@ -1,0 +1,8 @@
+<!-- Motorola Droid RAZR XT910 -->
+<deviceProfile>
+
+	<useTextureView>
+false
+	</useTextureView>
+
+</deviceProfile><!-- From: file:/C:/Users/fangke/Documents/GitHub/Android-Blog-Source/Support-Library-Demo/camera/res/xml/cwac_camera_profile_motorola_xt910_rtanz.xml --><!-- From: file:/C:/Users/fangke/Documents/GitHub/Android-Blog-Source/Support-Library-Demo/camera/build/intermediates/bundles/debug/res/xml/cwac_camera_profile_motorola_xt910_rtanz.xml -->
